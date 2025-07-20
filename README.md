@@ -37,3 +37,5 @@ This Power BI dashboard provides a comprehensive overview of customer behavior, 
 - Highlights spikes and lulls in sales activity.
 
 ---
+
+## Dax Measures in Dax_measures.md
