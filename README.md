@@ -6,7 +6,7 @@ This Power BI dashboard provides a comprehensive overview of customer behavior, 
 
 ## 🖼 Dashboard Overview
 
-![Cookie Store Dashboard](./Screenshot%202025-07-20%20155834.png)
+![Cookie Store Dashboard](./CookieDash.png)
 
 ---
 
