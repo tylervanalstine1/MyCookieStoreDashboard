@@ -37,9 +37,3 @@ This Power BI dashboard provides a comprehensive overview of customer behavior, 
 - Highlights spikes and lulls in sales activity.
 
 ---
-
-## 🧮 Core DAX Measures
-
-```DAX
-Revenue per Cookie = 
-DIVIDE(SUM(Orders[Revenue]), SUM(Orders[CookiesShipped]))
